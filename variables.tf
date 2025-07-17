@@ -32,5 +32,5 @@ variable "vpc_name" {
 
 variable "vms_ssh_root_key" {
   type        = string
-  description = "Публичный SSH-ключ для доступа к ВМ (используется ssh-keygen -t ed25519)"
+  description = "ssh-keygen -t ed25519 is used"
 }
