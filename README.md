@@ -18,15 +18,15 @@
 
 * Скриншот ЛК Yandex Cloud с созданной ВМ, где видно внешний ip-адрес
 
-![alt text](https://github.com/PeterFumelli/terraform-intro/blob/master/img/docker-ps.png)
+![alt text](https://github.com/PeterFumelli/BasicsTerraform.Yandex-Cloud/blob/main/img/lk_yandex.png)
 
 * Скриншот консоли, curl должен отобразить тот же внешний ip-адрес
 
-![alt text](https://github.com/PeterFumelli/terraform-intro/blob/master/img/docker-ps2.png)
+![alt text](https://github.com/PeterFumelli/BasicsTerraform.Yandex-Cloud/blob/main/img/curl_ext_ip.png)
 
 
 ### Задание 4
 
 * Вывод значений ip-адресов команды terraform output
 
-![alt text](https://github.com/PeterFumelli/terraform-intro/blob/master/img/docker-ps2.png)
+![alt text](https://github.com/PeterFumelli/BasicsTerraform.Yandex-Cloud/blob/main/img/terraform%20output.png)
